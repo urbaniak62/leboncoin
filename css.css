@@ -23,7 +23,7 @@ header{
 	background-color:rgb(245,107,42) ;
 }
 header nav ul li {
-	
+
 	text-decoration: none;
     display: inline;
     margin:10px;
@@ -40,7 +40,7 @@ header nav ul li:hover{
 
 
 header a{
-	
+
 	list-style: none;
 	text-decoration: none;
 	color:white;
@@ -64,14 +64,14 @@ header a{
 	width: 335px;
 	height:40px;
 	background-color: rgb(66,132,217);
-}	
+}
 
 .annonce a{
 
 	font-family: "OpenSansSemiBold",sans-serif;
 	font-size: 14px ;
-	line-height: 38px; 
-	color: white; 
+	line-height: 38px;
+	color: white;
 }
 
 .annonce2{
@@ -86,7 +86,7 @@ header a{
 	font-family: "OpenSansSemiBold",sans-serif;
 	font-size: 14px;
 	line-height: 38px;
-	color:rgb(66,132,217); 
+	color:rgb(66,132,217);
 }
 
 .actu{
@@ -125,13 +125,15 @@ header a{
 	border:0;
 }
 
+
+
 #droite li {
-	
+
 	color:rgb(61,106,191);
 	list-style-type: none;
 	text-align: right;
 
-	
+
 }
 
 #droite li a{
@@ -154,10 +156,10 @@ header a{
 	font-size: 14px;
 	font-weight: 500;
 	font-family: 'Open Sans', sans-serif;
-	
+
 	clear: both;
 	width: 1020px;
-	
+
 
 }
 
@@ -175,7 +177,7 @@ header a{
 
 footer li {
 
-	
+
 	list-style-type: none;
 
 }
@@ -194,7 +196,7 @@ footer li {
 
 	height: 33px;
 	width: 117px;
-	
+
 
 }
 
@@ -220,7 +222,7 @@ footer li {
 	width:260px;
 	float:left;
 	text-align: left;
-	
+
 
 }
 
@@ -238,7 +240,7 @@ footer div ul li a{
 	font-size: 13px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-        
+
 }
 footer div ul li a:hover{
 
@@ -300,25 +302,3 @@ footer div ul li a:hover{
 	border:none;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
